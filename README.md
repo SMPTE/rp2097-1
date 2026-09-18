@@ -1,4 +1,4 @@
-# SMPTE _RP 2067-1_ - _Cinema B-Chain Sound Systems - Specifications and Test Procedures Recommended Practice_
+# SMPTE _RP 2097-1_ - _Cinema B-Chain Sound Systems - Specifications and Test Procedures Recommended Practice_
 
 _This repository is public._
 
@@ -12,12 +12,12 @@ important notices.
 Unless specified otherwise, the contents of this repository are licensed as
 indicated at [LICENSE.md](./LICENSE.md).
 
-All published version(s) of this document can be found at <https://pub.smpte.org/doc/rp2067-1/>
+All published version(s) of this document can be found at <https://pub.smpte.org/doc/rp2097-1/>
 
 ## Reporting issues
 
-Please report issues at <https://github.com/SMPTE/rp2067-1/issues>.
+Please report issues at <https://github.com/SMPTE/rp2097-1/issues>.
 
 ## Contributing
 
-The draft version(s) of this document is accessible to SMPTE Standards Community members at <https://github.com/SMPTE/rp2067-1-private>.
+The draft version(s) of this document is accessible to SMPTE Standards Community members at <https://github.com/SMPTE/rp2097-1-private>.
